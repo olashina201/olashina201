@@ -5,7 +5,7 @@
 <a href="https://twitter.com/olashina201">
   <img align="left" alt="Olashina's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/imthepk">
+<a href="https://linkedin.com/in/quadri-sikiru-9634a5191">
   <img align="left" alt="Olashina's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/olashina201">
@@ -31,14 +31,14 @@
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
 - 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about React JS or any tech-related stuff.
-- 📫 How to reach me: [Twitter - @olashina](https://twitter.com/olashina) , [LinkedIn - @quadri](https://youtube.com/mtechviral)
+- 📫 How to reach me: [Twitter - @olashina](https://twitter.com/olashina) , [LinkedIn - @quadri](https://linkedin.com/in/quadri-sikiru-9634a5191)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 7 hours reading tech related articles.
 
 [![Twitter: olashina](https://img.shields.io/twitter/follow/olashina?style=social)](https://twitter.com/imthepk)
-[![Linkedin: olashina](https://img.shields.io/badge/-olashina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
+[![Linkedin: olashina](https://img.shields.io/badge/-olashina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quadri-sikiru-9634a5191)](https://www.linkedin.com/in/quadri-sikiru-9634a5191)
 [![GitHub olashina201](https://img.shields.io/github/followers/olashina201?label=follow&style=social)](https://github.com/olashina201)
-[![website](https://img.shields.io/badge/PortfolioWebsite-olashina.netlify.com-2648ff?style=flat-square&logo=google-chrome)](https://olashina.netlify.com/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-olashina.netlify.com-2648ff?style=flat-square&logo=google-chrome)](https://olashina.netlify.app/)
 
 
 **Languages and Tools:**  
