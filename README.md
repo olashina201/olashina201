@@ -1,2 +1,2 @@
-# My-Repo
-My first GitHub Repo
+# Hello
+I'm Olashina
