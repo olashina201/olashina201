@@ -25,7 +25,7 @@
 <br/>
 
 
-- 🔭 I’m currently working on [Medicxx](https://medixx-c.netlify.com/).
+- 🔭 I’m currently working on [CashPay](https://cashpay.netlify.com/).
 - 🌱 I’m currently learning more about Gatsby Js.
 - 👯 I’m currently contributing to a project on [NerdsCube](https://GitHub.com/NerdsCube/medixx-frontend.git).
 - 🤔 I’m looking for help with VelocityX documentation.
