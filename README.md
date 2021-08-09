@@ -55,9 +55,7 @@
 <a href="https://github.com/olashina201">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=olashina201&show_icons=true&theme=light&line_height=27" alt="Olashina's github stats"/>
 </a>
-<a href="https://github.com/olashina201/medixx-frontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olashina&repo=medixx-frontend&theme=light" />
-</a>
+
 
 <div align="center">
 
