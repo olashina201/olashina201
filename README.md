@@ -25,14 +25,14 @@
 <br/>
 
 
-- 🔭 I’m currently working on [CashFund](https://cashfund.netlify.app).
+- 🔭 I’m currently working on Self Development.
 - 🌱 I’m currently learning more about Gatsby Js.
 - 👯 I’m currently contributing to a project on [NerdsCube](https://GitHub.com/NerdsCube/medixx-frontend.git).
 - 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about React JS or any tech-related stuff.
 - 📫 How to reach me: [Twitter - @olashina](https://twitter.com/olashina) , [LinkedIn - @quadri](https://linkedin.com/in/quadri-sikiru-9634a5191)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 7 hours reading tech related articles.
+- ⚡ Fun fact: Fast Learner and flexible with different technology.
 
 [![Twitter: olashina](https://img.shields.io/twitter/follow/olashina?style=social)](https://twitter.com/imthepk)
 [![Linkedin: olashina](https://img.shields.io/badge/-olashina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quadri-sikiru-9634a5191)](https://www.linkedin.com/in/quadri-sikiru-9634a5191)
