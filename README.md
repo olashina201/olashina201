@@ -26,7 +26,7 @@
 
 
 - 🔭 I’m currently working on Self Development.
-- 🌱 I’m currently learning more about Gatsby Js.
+- 🌱 I’m currently learning more about Web 3.0.
 - 👯 I’m currently contributing to a project on [NerdsCube](https://GitHub.com/NerdsCube/medixx-frontend.git).
 - 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about React JS or any tech-related stuff.
