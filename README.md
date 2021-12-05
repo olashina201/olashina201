@@ -29,12 +29,12 @@
 
 - 🌱 I’m currently learning more about Web 3.0.
 
-- 👯 I’m currently contributing to a project on [NerdsCube](https://GitHub.com/NerdsCube/medixx-frontend.git).
+- 👯 I’m currently contributing seeking for innovation.
 
 - 💬 Ask me about React JS or any tech-related stuff.
 
 - 📫 How to reach me: [Twitter - @olashina](https://twitter.com/olashina) , [LinkedIn - @quadri](https://linkedin.com/in/quadri-sikiru-9634a5191)
-- 😄 Pronouns: He/His
+
 - ⚡ Fun fact: Fast Learner and flexible with different technology.
 
 [![Twitter: olashina](https://img.shields.io/twitter/follow/olashina?style=social)](https://twitter.com/imthepk)
