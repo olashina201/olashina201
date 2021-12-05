@@ -26,10 +26,13 @@
 
 
 - 🔭 I’m currently working on Self Development.
+
 - 🌱 I’m currently learning more about Web 3.0.
+
 - 👯 I’m currently contributing to a project on [NerdsCube](https://GitHub.com/NerdsCube/medixx-frontend.git).
-- 🤔 I’m looking for help with VelocityX documentation.
+
 - 💬 Ask me about React JS or any tech-related stuff.
+
 - 📫 How to reach me: [Twitter - @olashina](https://twitter.com/olashina) , [LinkedIn - @quadri](https://linkedin.com/in/quadri-sikiru-9634a5191)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Fast Learner and flexible with different technology.
