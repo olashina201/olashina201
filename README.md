@@ -1,4 +1,4 @@
-## Howdy, I'm [Olashina!](https://olashina.netlify.com) 👋
+Y I'm [Olashina!](https://olashina.netlify.com) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olashina201&label=Views&color=blue&style=plastic" alt="olashina" /> </p>
 
@@ -29,7 +29,7 @@
 
 - 🌱 I’m currently learning more about Web 3.0.
 
-- 👯 I’m currently contributing seeking for innovation.
+- 👯 I’m currently seeking for innovation.
 
 - 💬 Ask me about React JS or any tech-related stuff.
 
