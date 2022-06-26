@@ -1,4 +1,4 @@
-Y I'm [Olashina!](https://olashina.netlify.com) 👋
+Yo I'm [Olashina!](https://olashina.netlify.com) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olashina201&label=Views&color=blue&style=plastic" alt="olashina" /> </p>
 
@@ -31,7 +31,7 @@ Y I'm [Olashina!](https://olashina.netlify.com) 👋
 
 - 👯 I’m currently seeking for innovation.
 
-- 💬 Ask me about React JS or any tech-related stuff.
+- 💬 Ask me about NodeJS or any tech-related stuff.
 
 - 📫 How to reach me: [Twitter - @olashina](https://twitter.com/olashina) , [LinkedIn - @quadri](https://linkedin.com/in/quadri-sikiru-9634a5191)
 
