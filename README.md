@@ -2,7 +2,7 @@ Yo I'm [Olashina!](https://olashina.nelify.com) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olashina201&label=Views&color=blue&style=plastic" alt="olashina" /> </p>
 
-<a href="https://twitter.com/OlashinaQuadri">
+<a href="https://twitter.com/code_advocate">
   <img align="left" alt="Olashina's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/quadri-sikiru-9634a5191">
