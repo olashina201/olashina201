@@ -1,4 +1,4 @@
-Yo I'm [Olashina!](https://olashina.netlify.com) 👋
+Yo I'm [Olashina!](https://olashina.nelify.com) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olashina201&label=Views&color=blue&style=plastic" alt="olashina" /> </p>
 
