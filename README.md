@@ -3,18 +3,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Welcome to my GitHub profile! I'm a passionate software engineer with a strong focus on backend development. With extensive experience in building robust applications using Laravel (PHP), Node.js, and NestJS, I strive to create efficient, scalable, and secure solutions. My expertise lies in crafting well-structured code, designing database architectures, and implementing RESTful APIs. I thrive in collaborative environments, embracing new challenges and constantly seeking innovative ways to improve software performance and user experiences.
 
-* 🌍  I'm based in Lagos, Nigeria.
-* ✉️  You can contact me at [olashina201@gmail.com](mailto:olashina201@gmail.com)
-* 🧠  I'm learning More on Design Patterns
-* 🤝  I'm open to collaborating on Open Source Projects
-* ⚡  I'm an avid traveler and have a goal to visit every continent in the world. Exploring new cultures, experiencing diverse landscapes, and immersing myself in different traditions is something that truly fascinates me.
-
-<a href="https://www.github.com/olashina201" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/olashina201?logo=github&style=for-the-badge&color=facc15&labelColor=1e3a8a" /></a>
-
-### Skills
-
-
+*   🌍  I'm based in Lagos, Nigeria.
+*   ✉️  You can contact me at [olashina201@gmail.com](mailto:olashina201@gmail.com)
+*   🧠  I'm learning More on Design Patterns
+*   🤝  I'm open to collaborating on Open Source Projects
+*   ⚡  I'm an avid traveler and have a goal to visit every continent in the world. Exploring new cultures, experiencing diverse landscapes, and immersing myself in different traditions is something that truly fascinates me.<a href="https://www.github.com/olashina201" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/olashina201?logo=github&style=for-the-badge&color=facc15&labelColor=1e3a8a" /></a>### Skills 
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -49,22 +43,26 @@ src="https://img.shields.io/github/followers/olashina201?logo=github&style=for-t
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.dev.to/olashina" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/olashina201" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://olashina.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/algo_ace" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/quadri-sikiru" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/olashina" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/code_advocate" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/olashina201"><img src="https://github-readme-stats.vercel.app/api?username=olashina201&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="olashina201's GitHub stats" /></a>
-
-<a href="http://www.github.com/olashina201"><img src="https://github-readme-streak-stats.herokuapp.com/?user=olashina201&stroke=ffffff&background=1e3a8a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/olashina201"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=olashina201&bg_color=1e3a8a&color=ffffff&line=facc15&point=ffffff&area_color=1e3a8a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/olashina"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.dev.to/olashina" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.github.com/olashina201" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://olashina.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
+                          
+                      <a href="http://www.instagram.com/algo_ace" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/quadri-sikiru" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+                          
+                      <a href="http://www.medium.com/olashina" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.twitter.com/code_advocate" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/olashina201"><img src="https://github-readme-stats.vercel.app/api?username=olashina201&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="olashina201's GitHub stats" /></a><a
+                      href="http://www.github.com/olashina201"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=olashina201&stroke=ffffff&background=1e3a8a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>### Support Me<a
+                  href="https://www.buymeacoffee.com/olashina"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
